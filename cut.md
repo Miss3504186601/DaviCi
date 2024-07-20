@@ -8,4 +8,4 @@
 创建alpha输出，选中窗口工具生成遮罩，将视频输出到alpha端（蓝对蓝）   
 ![image](https://github.com/user-attachments/assets/50f11c82-bf15-4b29-b747-232d41301a85)  
 # 关键帧、蒙版、图层  
-成品：https://www.douyin.com/user/self?modal_id=7393661970676813071&showTab=post
+成品：君は僕にとって唯一の存在だ  https://v.douyin.com/iMhQVuwK/
